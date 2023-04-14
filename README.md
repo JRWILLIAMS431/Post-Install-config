@@ -33,7 +33,8 @@ This tutorial outlines the post-installation process of the open-source help des
 <img src="https://i.imgur.com/GBRUbLd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Admin Panel -> Agents -> Departments
+Admin Panel -> Agents -> Departments 
+Configuring the deparments in short me
 
 </p>
 <br />
