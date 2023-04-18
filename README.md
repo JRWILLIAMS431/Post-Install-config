@@ -45,6 +45,7 @@ As an admin I am tasked with creating the departments within which each agent wi
 </p>
 <p>
 Admin Panel -> Agents -> Add New
+
 Here I am creating a simulation agent that will act as one of the help desk associates responsible for corresponding and resolving incoming tickets. 
 
 </p>
@@ -65,6 +66,7 @@ The users I create will act as organization employees who inevitably run into to
 </p>
 <p>
 Admin Panel -> Manage -> SLA
+
 The SLA or service level agreement section is where all parameters and instructions for how the ticket should be resolved will be located. SLA is handed down by management in most cases and assigned to the support team. Every ticket is not created equal meaning that the level of urgency needed to resolve each ticket my vary. Severity levels and time-frames are included in the SLA depending on the nature of the ticket being resolved. 
 </p>
 <br />
@@ -74,6 +76,8 @@ The SLA or service level agreement section is where all parameters and instructi
 </p>
 <p>
 Admin Panel -> Manage -> Help Topics
+
+The help topics section enables the user with the ability to stage their concerns categorically. Essentially a window where all requests are filtered by topic. 
 </p>
 <br />
 
