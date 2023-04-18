@@ -34,7 +34,8 @@ This tutorial outlines the post-installation process of the open-source help des
 </p>
 <p>
 Admin Panel -> Agents -> Departments 
-Configuring the deparments in short me
+
+As an admin I am tasked with creating the departments within which each agent will be granted certain accesses.These departments vary widely from business to business but achieve the same goal which is to streamline support in a central hub where the support team and users can interface with each other. 
 
 </p>
 <br />
@@ -44,6 +45,7 @@ Configuring the deparments in short me
 </p>
 <p>
 Admin Panel -> Agents -> Add New
+Here I am creating a simulation agent that will act as one of the help desk associates responsible for corresponding and resolving incoming tickets. 
 
 </p>
 <br />
@@ -53,6 +55,8 @@ Admin Panel -> Agents -> Add New
 </p>
 <p>
 Agent Panel -> Users -> Add New
+
+The users I create will act as organization employees who inevitably run into to issues throughout the work day. These users will be the ones sending tickets to be resolved by the support team/department. 
 </p>
 <br />
 
@@ -61,6 +65,7 @@ Agent Panel -> Users -> Add New
 </p>
 <p>
 Admin Panel -> Manage -> SLA
+The SLA or service level agreement section is where all parameters and instructions for how the ticket should be resolved will be located. SLA is handed down by management in most cases and assigned to the support team. Every ticket is not created equal meaning that the level of urgency needed to resolve each ticket my vary. Severity levels and time-frames are included in the SLA depending on the nature of the ticket being resolved. 
 </p>
 <br />
 
